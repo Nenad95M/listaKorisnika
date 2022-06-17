@@ -3,25 +3,29 @@ export default [
         id:1,
         name:'Nenad',
         lastname:'Markovic',
-        birth:'1995'
+        birth:'1995',
+        city:'Kragujevac'
     },
     {
         id:2,
         name:'Aleksandra',
         lastname:'Markovic',
-        birth:'1998'
+        birth:'1998',
+        city:'Kragujevac'
     },
     {
         id:3,
         name:'Radmila',
         lastname:'Markovic',
-        birth:'1972'
+        birth:'1972',
+        city:'Kragujevac'
     },
     {
         id:4,
         name:'Milen',
         lastname:'Markovic',
-        birth:'1960'
+        birth:'1960',
+        city:'Kragujevac'
     },
 
 ]
